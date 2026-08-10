@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: bezdep-kazino.github.io
+Sitemap: https://bezdep-kazino.github.io/sitemap.xml
